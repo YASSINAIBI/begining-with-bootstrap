@@ -1,0 +1,17 @@
+.container .col{
+
+    background-color: darkgrey;
+    
+    margin-left: 8%;
+    
+    margin-top: 10px;
+    
+    border-radius: 5%;
+    }
+    .container .row{
+    
+    height: 379px;
+    }
+    .container .w-100{
+        
+    }
